@@ -16,7 +16,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please, enter source input file: ");
         String inputFileName = scanner.next();
-//        File inputFile = new File("resources/" + inputFileName + ".xml");
         File inputFile = new File(inputFileName + ".xml");
         if (!inputFile.exists()) {
             System.out.println("Sorry, file does not exist...");
