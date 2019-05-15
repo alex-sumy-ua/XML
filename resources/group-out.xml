@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE group SYSTEM "resources/group.dtd">
+<group>
+    <student firstname="Vasya" groupnumber="0911" lastname="Vasyaev">
+        <subject title="English" value="4"/>
+        <subject title="Mathematics" value="4"/>
+	<subject title="History" value="5"/>
+        <average>4.33</average>
+    </student>
+    <student firstname="Olha" groupnumber="0912" lastname="Olehova">
+        <subject title="French" value="3"/>
+        <subject title="English" value="5"/>
+	<subject title="Math" value="3"/>
+        <average>3.67</average>
+    </student>
+    <student firstname="Valeriya" groupnumber="0913" lastname="Vovk">
+        <subject title="French" value="2"/>
+        <subject title="English" value="5"/>
+	<subject title="Math" value="5"/>
+	<subject title="JavaFX" value="4"/>
+        <average>4</average>
+    </student>
+</group>
